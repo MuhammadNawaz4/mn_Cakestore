@@ -1,0 +1,45 @@
+body {
+  background-color: #0c243c;
+}
+.container {
+  background-color: white;
+  width: 70%;
+  margin: auto;
+  text-align: right;
+}
+header {
+  background-color: #ffff;
+}
+nav {
+  text-align: right;
+  padding: 10px;
+}
+.banner {
+    background-image: url('../IMG/large/specialOccasion900.jpg');
+  height: 400px;
+}
+.banner img {
+  width: 10%;
+  height: auto;
+}
+
+main {
+  background-color: white;
+}
+.gallery {
+  background-color: aquamarine;
+  padding: 30px;
+}
+.items {
+  width: 100%;
+  height: auto;
+  display: flex;
+}
+.items img {
+  width: 100%;
+  height: auto;
+}
+.sales .gh {
+  text-align: center;
+  background-color: aquamarine;
+}
